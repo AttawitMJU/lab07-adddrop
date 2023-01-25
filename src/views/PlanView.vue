@@ -4,6 +4,7 @@
     <h2>{{ counter.count }}</h2>
     <h2>{{ counter.doubleCount }}</h2>
     <h1>{{ news.newsList }}</h1>
+    <v-btn> Button </v-btn>
   </div>
 </template>
 <script setup>
